@@ -104,6 +104,6 @@ Go back into c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php rename the
 Almost done, go back into IIS Manager, click on osTicket and click on "Browse +80" to go into osTicket. Once in,(click continue) then you will name the Helpdesk to your liking. Select a default email that will receive emails from customers who submit tickets.
 
 
-Continue filling out the rest of everyhing else and Viola! We're done. All we have left to do is clean up.  Clean up Delete: C:\inetpub\wwwroot\osTicket\setup Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php Login to the osTicket Admin Panel (http://localhost/osTicket/scp/login.php)
+Continue filling out the rest of everything else and Viola! We're done. All we have left to do is clean up.  Clean up Delete: C:\inetpub\wwwroot\osTicket\setup Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php Login to the osTicket Admin Panel (http://localhost/osTicket/scp/login.php)
 
 <br />
