@@ -99,7 +99,7 @@ Now we need to enable some extensions in IIS Manager. Go to Sites> Default> osTi
 
 Go back into c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php rename the file to c:\inetpub\wwwroot\osTicket\include\ost-config.php Assign permissions to ost-config.php Disable inheritance->Removeall New Permissions->Everyone->all
 
-<img src="https://i.imgur.com/QspXEAi.png" height="80%" width="80%" alt="Disable Inheritance"/>
+<img src="https://camo.githubusercontent.com/0a89dc3d5a476c0a5d2a90e808776c26c1c24397702e3064076650c9e6fcd040/68747470733a2f2f692e696d6775722e636f6d2f316e59615947652e706e67" height="80%" width="80%" alt="Disable Inheritance"/>
 
 Almost done, go back into IIS Manager, click on osTicket and click on "Browse +80" to go into osTicket. Once in,(click continue) then you will name the Helpdesk to your liking. Select a default email that will receive emails from customers who submit tickets.
 
