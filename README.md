@@ -41,7 +41,7 @@ On the next screen we're going to see our resource group that we created earlier
 <img src="https://i.imgur.com/yviBbEU.png" height="80%" width="80%" alt="VM Stats"/>
 
 The VM may take a minute to create.
-<img src="https:https://i.imgur.com/o3GOmHO.png" height="80%" width="80%" alt="VM deployment"/>
+<img src="https://i.imgur.com/o3GOmHO.png" height="80%" width="80%" alt="VM deployment"/>
 <img src="https://i.imgur.com/ZatFxEE.png" height="80%" width="80%" alt="VM deployment"/>
 </p>
 
